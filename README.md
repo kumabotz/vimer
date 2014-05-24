@@ -1,9 +1,12 @@
 # vimer
 
-## Steps to become Vim-er
+## Slash the dragon
 1. https://github.com/robbyrussell/oh-my-zsh
-1. https://github.com/chriskempson/base16-shell
-1. https://github.com/chriskempson/base16-iterm2
+
+## Color Schemes
+- https://raw.githubusercontent.com/djoyner/iTerm2-wombat/master/Wombat.itermcolors
+- https://github.com/chriskempson/base16-iterm2
+- https://github.com/chriskempson/base16-shell
 
 ## References
 - https://github.com/yeouchien/cbvim
