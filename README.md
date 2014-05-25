@@ -1,6 +1,7 @@
 # vimer
 
-https://github.com/kumabotz/dotfiles/blob/master/vim/vimrc
+Take this and slash the dragon
+https://github.com/kumabotz/dotfiles/blob/master/vim
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
