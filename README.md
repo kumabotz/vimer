@@ -13,6 +13,7 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `gcgc` uncomment line
 - `m<CHAR>` mark current line
 - `<backtick><CHAR>` go to mark
+- `C-w<hjkl>` navigate window inside vim
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
