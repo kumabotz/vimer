@@ -14,6 +14,7 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `m<CHAR>` mark current line
 - `<backtick><CHAR>` go to mark
 - `C-w<hjkl>` navigate window inside vim
+- `ACK` https://github.com/mileszs/ack.vim#keyboard-shortcuts
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
