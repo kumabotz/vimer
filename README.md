@@ -15,6 +15,9 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `<backtick><CHAR>` go to mark
 - `C-w<hjkl>` navigate window inside vim
 - `ACK` https://github.com/mileszs/ack.vim#keyboard-shortcuts
+- recover closed tab
+  1. `:ls` to get the buffer number 
+  1. `:tabnew +Nbuf` or `:bN` at new tab where N is the buffer number
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
