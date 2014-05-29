@@ -27,6 +27,7 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `%` go to match closing / opening tag
 - `;`, `,` repeat the last `f` or `F`
 - `S` clear current line; to insert mode
+- `>>` `<<` indent and unindent in normal mode
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
