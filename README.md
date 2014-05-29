@@ -23,6 +23,8 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `C-p C-b` show recent files
 - `C-x` open file in horizontal window
 - `C-v` open file in vertical window
+- `S-v <num>G` select until line <num>
+- `%` go to match closing / opening tag
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
