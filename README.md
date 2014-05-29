@@ -25,6 +25,8 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `C-v` open file in vertical window
 - `S-v <num>G` select until line <num>
 - `%` go to match closing / opening tag
+- `;`, `,` repeat the last `f` or `F`
+- `S` clear current line; to insert mode
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
