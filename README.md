@@ -17,6 +17,7 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `ACK` https://github.com/mileszs/ack.vim#keyboard-shortcuts
 - `C-o` prev buffer
 - `C-i` next buffer
+- `C-t` open in new tab
 - recover closed tab
   1. `:ls` to get the buffer number
   1. `:tabnew +Nbuf` or `:bN` at new tab where N is the buffer number
