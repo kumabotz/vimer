@@ -30,6 +30,7 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `S` clear current line; to insert mode
 - `>>` `<<` indent and unindent in normal mode
 - `:Gblame` git blame
+- `q<CHAR>` start recording macro binding to `<CHAR>`, stop recording with `q`, `@<CHAR>` to apply macro
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
