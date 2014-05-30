@@ -29,6 +29,7 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `;`, `,` repeat the last `f` or `F`
 - `S` clear current line; to insert mode
 - `>>` `<<` indent and unindent in normal mode
+- `:Gblame` git blame
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
