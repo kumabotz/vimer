@@ -33,6 +33,7 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `q<CHAR>` start recording macro binding to `<CHAR>`, stop recording with `q`, `@<CHAR>` to apply macro
 - `gd` go to definition
 - `[{` jump back to `{`
+- `cw` change the word
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
