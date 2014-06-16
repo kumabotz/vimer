@@ -38,6 +38,7 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `gd` go to definition
 - `[{` jump back to `{`
 - `cw` change the word
+- `D` delete till the end of line
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
