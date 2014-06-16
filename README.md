@@ -3,6 +3,10 @@
 Take this and slash the dragon
 https://github.com/kumabotz/dotfiles/blob/master/vim
 
+## Theme
+- Use `agnoster` from https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+- Install fonts from https://github.com/Lokaltog/powerline-fonts/blob/master/Inconsolata/Inconsolata%20for%20Powerline.otf
+
 ## TIPS
 - `f` find in line
 - `F` find backward in line
