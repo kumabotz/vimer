@@ -39,6 +39,7 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `[{` jump back to `{`
 - `cw` change the word
 - `D` delete till the end of line
+- folding for js and scss `set foldmethod=marker` `set foldmarker={,}`
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
