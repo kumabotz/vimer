@@ -40,6 +40,7 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `cw` change the word
 - `D` delete till the end of line
 - folding for js and scss `set foldmethod=marker` `set foldmarker={,}`
+- `:tabdo e` reload all tabs
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
