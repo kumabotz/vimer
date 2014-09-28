@@ -41,6 +41,7 @@ https://github.com/kumabotz/dotfiles/blob/master/vim
 - `D` delete till the end of line
 - folding for js and scss `set foldmethod=marker` `set foldmarker={,}`
 - `:tabdo e` reload all tabs
+- `retab` format tab / indentation with current tab settings
 
 ## TODO
 - enable insert after quote (current: `jk, a`)
